@@ -1,16 +1,14 @@
-Project Overview
-
-Overview
+# Project Overview
 
 In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States— "Chicago", "New York City", and "Washington". I wrote a python script to import the data and answer interesting questions about it by computing descriptive statistics. I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-What Software was Needed?
+## What Software was Needed?
 In achieving completion of this project, the following software requirements was applied:
 
 Python 3, NumPy, and pandas installed using Anaconda
 Jupiter Notebook.
 
-Bike Share Data
+## Bike Share Data
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
 
 Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles. These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
@@ -33,7 +31,7 @@ Birth Year
 
 
 
-Statistics Computed
+## Statistics Computed
 I learned about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, I wrote code to provide the following information:
 
 #1 Popular times of travel (i.e., occurs most often in the start time)
@@ -62,7 +60,7 @@ new_york_city.csv
 washington.csv
 
 
-References used
+## References used
 1. Python Beginner Tutorial 6 - Exceptions and Loops - https://www.youtube.com/watch?v=-4tA5PAH9uU&t=470s
 2. JournalDev - https://www.journaldev.com/33182/python-add-to-list
 3. Calculate minimums in Pandas without `zero`-values? - https://stackoverflow.com/questions/35608893/calculate-minimums-in-pandas-without-zero-values
